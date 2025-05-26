@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463213798037",
+    "project_id": "navicon-app",
+    "storage_bucket": "navicon-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463213798037:android:cb7110d664f47b497ab19c",
+        "android_client_info": {
+          "package_name": "com.example.bill_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfbeP7cC4D0kkVPK5zkbqV--C5wvRg_b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

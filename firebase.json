@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"navicon-app","appId":"1:463213798037:android:cb7110d664f47b497ab19c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"navicon-app","configurations":{"android":"1:463213798037:android:cb7110d664f47b497ab19c","ios":"1:463213798037:ios:5fea8d50e43657337ab19c"}}}}}}
